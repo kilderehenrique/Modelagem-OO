@@ -1,0 +1,14 @@
+
+
+Aplicação para smartphone
+
+---------------------------
+ | Requisitos Funcionais |
+---------------------------
+
+RF001 - Gerenciar tarefas
+RF002 - Gerenciar item-tarefas
+RF003 - Mover tarefas concluídas
+
+
+

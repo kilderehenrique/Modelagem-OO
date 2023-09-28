@@ -1,0 +1,28 @@
+
+
+Modelagem OO
+
+Modelos de BD
+    - Modelo conceitual
+    - Modelo lógico
+    - Modelo físico (SQL)
+        - DDL, DML
+
+Arquiteturas Baseadas Modelos
+    - MVC (monolitico)
+    - API REST (micro-service)
+
+Linhas de Produtos de Software
+
+Arquiteturas (CI/CD)
+    - Deploy ambientes
+    - Docker
+    - Kubernet
+
+
+---------
+ ADAPTER
+---------
+
+
+
